@@ -3,24 +3,10 @@
     <title>CarnabySnaps Travel Photography</title>
     <link href="https://CarnabySnaps.github.io/travel-photography/feed.xml" rel="self" />
     <link href="https://CarnabySnaps.github.io/travel-photography" />
-    <updated>2026-03-01T01:10:28+00:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Mark Carnaby</name>
     </author>
     <id>https://CarnabySnaps.github.io/travel-photography</id>
 
-    <entry>
-        <title>Northern France Fully Loaded Cycle Tour 2022</title>
-        <author>
-            <name>Mark Carnaby</name>
-        </author>
-        <link href="https://CarnabySnaps.github.io/travel-photography/northern-france-fully-loaded-cycle-tour-2022/"/>
-        <id>https://CarnabySnaps.github.io/travel-photography/northern-france-fully-loaded-cycle-tour-2022/</id>
-        <media:content url="https://CarnabySnaps.github.io/travel-photography/media/posts/37/Day-Seven-Saint-Nicolas-de-la-Haie-to-Le-Havre-1-31.webp" medium="image" />
-            <category term="exclude"/>
-
-        <updated>2026-03-01T01:10:28+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
