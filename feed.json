@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "CarnabySnaps",
     "description": "",
-    "home_page_url": "https://CarnabySnaps.github.io/travel-photography",
-    "feed_url": "https://CarnabySnaps.github.io/travel-photography/feed.json",
+    "home_page_url": "https://carnabysnaps.co.uk",
+    "feed_url": "https://carnabysnaps.co.uk/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mark Carnaby"
